@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">P06_MyLocalBanks</string>
+    <string name="dbs">DBS銀行</string>
+    <string name="ocbc">OCBC銀行</string>
+    <string name="uob">UOB銀行</string>
+    <string name="website">ウェブサイト</string>
+    <string name="contact">銀行に連絡する</string>
+    <string name="english" translatable="false">English</string>
+    <string name="Japanese" translatable="false">Japanese</string>
+    <string name="openWebsite">ウェブサイトを開設</string>
+    <string name="openContact">ダイヤルパッドを開く</string>
+    <string name="favourite">お気に入り</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P06_MyLocalBanks</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="website">Website</string>
+    <string name="contact">Contact the bank</string>
+    <string name="english">English</string>
+    <string name="Japanese">Japanese</string>
+    <string name="openWebsite">Opening website</string>
+    <string name="openContact">Opening dialpad</string>
+    <string name="favourite">Favourite</string>
+</resources>
